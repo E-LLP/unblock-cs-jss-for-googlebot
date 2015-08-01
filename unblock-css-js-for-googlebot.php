@@ -11,7 +11,6 @@
 /**
  * 
  * @param String $rv The output of the readme.txt
- * @param unknown $public
  * @return string
  */
 function wpsos_allow_googlebot($rv, $public)

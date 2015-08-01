@@ -7,7 +7,6 @@ Tested up to: 4.2.3
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-[MAYBE IN THIS SHORT DESCRIPTION WE CAN ADD STH WE CAN BENEFIT FROM?]
 Modifies robots.txt to allow Googlebot access JS and CSS files.
 
 == Description ==
@@ -28,7 +27,7 @@ For more information and support, check out: http://www.wpsos.io/wordpress-plugi
 
 The installation and use is very straightforward. You should:
 
-1. Upload the folder `allow-googlebot` to the `/wp-content/plugins/` directory
+1. Upload the folder `ublock-css-js-for-googlebot` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
